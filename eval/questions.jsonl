@@ -1,0 +1,36 @@
+{"id": "da-en", "lang": "en", "question": "By how much was the dearness allowance for state employees increased?", "expected_source": "order_01_mahngai_bhatta"}
+{"id": "da-hi", "lang": "hi", "question": "राज्य कर्मचारियों का महंगाई भत्ता कितना बढ़ाया गया है?", "expected_source": "order_01_mahngai_bhatta"}
+{"id": "da-hg", "lang": "hinglish", "question": "sarkari karmchariyon ka DA kitna badha hai?", "expected_source": "order_01_mahngai_bhatta"}
+{"id": "tr-en", "lang": "en", "question": "What is the last date to apply online for teacher transfers?", "expected_source": "order_02_shikshak_sthanantaran"}
+{"id": "tr-hi", "lang": "hi", "question": "शिक्षकों के तबादले के लिए ऑनलाइन आवेदन की अंतिम तिथि क्या है?", "expected_source": "order_02_shikshak_sthanantaran"}
+{"id": "tr-hg", "lang": "hinglish", "question": "teacher ke transfer ke liye apply kab tak kar sakte hain?", "expected_source": "order_02_shikshak_sthanantaran"}
+{"id": "sv-en", "lang": "en", "question": "When do summer vacations in schools start and end?", "expected_source": "order_03_grishmavkash"}
+{"id": "sv-hi", "lang": "hi", "question": "स्कूलों में गर्मी की छुट्टियाँ कब से कब तक हैं?", "expected_source": "order_03_grishmavkash"}
+{"id": "sv-hg", "lang": "hinglish", "question": "school ki garmi ki chhuttiyan kab se shuru hongi?", "expected_source": "order_03_grishmavkash"}
+{"id": "pe-en", "lang": "en", "question": "What is the new dearness relief rate for pensioners?", "expected_source": "order_04_pension_punarikshan"}
+{"id": "pe-hi", "lang": "hi", "question": "पेंशनभोगियों को महंगाई राहत अब कितने प्रतिशत मिलेगी?", "expected_source": "order_04_pension_punarikshan"}
+{"id": "pe-hg", "lang": "hinglish", "question": "pension walon ki mehngai rahat kitni ho gayi hai?", "expected_source": "order_04_pension_punarikshan"}
+{"id": "ho-en", "lang": "en", "question": "How many optional holidays can an employee take in 2024?", "expected_source": "order_05_avkash_suchi"}
+{"id": "ho-hi", "lang": "hi", "question": "वर्ष 2024 में कर्मचारी कितने ऐच्छिक अवकाश ले सकते हैं?", "expected_source": "order_05_avkash_suchi"}
+{"id": "ho-hg", "lang": "hinglish", "question": "2024 mein Diwali ki chhutti kitne din ki hai?", "expected_source": "order_05_avkash_suchi"}
+{"id": "of-en", "lang": "en", "question": "What are the working hours of government offices?", "expected_source": "order_06_karyalay_samay"}
+{"id": "of-hi", "lang": "hi", "question": "सरकारी दफ्तरों का समय क्या है और देर से आने पर क्या होगा?", "expected_source": "order_06_karyalay_samay"}
+{"id": "of-hg", "lang": "hinglish", "question": "office late aane par kya action hoga, biometric attendance wala rule?", "expected_source": "order_06_karyalay_samay"}
+{"id": "rc-en", "lang": "en", "question": "What is the deadline for ration card e-KYC?", "expected_source": "order_07_ration_ekyc"}
+{"id": "rc-hi", "lang": "hi", "question": "राशन कार्ड की ई-केवाईसी करवाने की आखिरी तारीख क्या है?", "expected_source": "order_07_ration_ekyc"}
+{"id": "rc-hg", "lang": "hinglish", "question": "ration card ka e-KYC nahi karaya toh kya hoga?", "expected_source": "order_07_ration_ekyc"}
+{"id": "sc-en", "lang": "en", "question": "What is the family income limit for the post-matric scholarship?", "expected_source": "order_08_chhatravritti"}
+{"id": "sc-hi", "lang": "hi", "question": "पोस्ट मैट्रिक छात्रवृत्ति के लिए आय सीमा कितनी है?", "expected_source": "order_08_chhatravritti"}
+{"id": "sc-hg", "lang": "hinglish", "question": "scholarship ka form kab tak bhar sakte hain aur kaunse documents chahiye?", "expected_source": "order_08_chhatravritti"}
+{"id": "hw-en", "lang": "en", "question": "What are the school timings during the heatwave?", "expected_source": "order_09_lu_vidyalay_samay"}
+{"id": "hw-hi", "lang": "hi", "question": "लू के कारण स्कूल किस समय तक खुलेंगे?", "expected_source": "order_09_lu_vidyalay_samay"}
+{"id": "hw-hg", "lang": "hinglish", "question": "garmi aur loo mein school ka time kya rahega?", "expected_source": "order_09_lu_vidyalay_samay"}
+{"id": "ag-en", "lang": "en", "question": "How much age relaxation do women candidates get in direct recruitment?", "expected_source": "order_10_aayu_seema_chhut"}
+{"id": "ag-hi", "lang": "hi", "question": "सीधी भर्ती में महिलाओं को उम्र में कितनी छूट मिलती है?", "expected_source": "order_10_aayu_seema_chhut"}
+{"id": "ag-hg", "lang": "hinglish", "question": "sarkari naukri ki bharti mein max age limit kitni hai?", "expected_source": "order_10_aayu_seema_chhut"}
+{"id": "ml-en", "lang": "en", "question": "How many days of maternity leave do women government employees get?", "expected_source": "order_11_matritva_avkash"}
+{"id": "ml-hi", "lang": "hi", "question": "महिला कर्मचारियों को मातृत्व अवकाश कितने दिन का मिलता है?", "expected_source": "order_11_matritva_avkash"}
+{"id": "ml-hg", "lang": "hinglish", "question": "paternity leave kitne din ki milti hai purush karmchari ko?", "expected_source": "order_11_matritva_avkash"}
+{"id": "ta-en", "lang": "en", "question": "What is the daily allowance for class 1 officers travelling outside the state?", "expected_source": "order_12_yatra_bhatta"}
+{"id": "ta-hi", "lang": "hi", "question": "निजी वाहन से सरकारी यात्रा करने पर प्रति किलोमीटर कितना मिलेगा?", "expected_source": "order_12_yatra_bhatta"}
+{"id": "ta-hg", "lang": "hinglish", "question": "sarkari tour pe daily allowance kitna milega class 3 walon ko?", "expected_source": "order_12_yatra_bhatta"}
